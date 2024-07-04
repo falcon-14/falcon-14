@@ -33,6 +33,4 @@ Created a simple banking application using Java, facilitating efficient transact
 
 ---
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/chaithanyareddy/) or [Email](mailto:chaithanyareddy1402@gmail.com). 
-
 Thank you for visiting my profile! 😊
